@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-![](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header)
+        ![](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header)
 
 ![](https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,git,github,vscode&perline=6)
 
