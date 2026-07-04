@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 
-        ![](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header)
+![](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header)
 
 ![](https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,git,github,vscode&perline=6)
 
@@ -35,7 +35,7 @@
 - **Tech:** Python, XGBoost, Groq LLaMA 3.3 70B, Flask, React
 - End-to-end fraud detection platform combining ML predictions with LLM-generated, human-readable explanations for flagged transactions.
 - Frontend on **Vercel**, backend on **Render**.
-- [View Repository](https://github.com/ahsan-mohamed)
+- [Live Demo](https://fraudguard-ai-lovat.vercel.app/) · [View Repository](https://github.com/ahsan-mohamed/fraudguard-ai)
 
 #### 🔐 Enterprise RAG System
 - **Tech:** LangChain, ChromaDB, Flask, JWT/bcrypt, React
@@ -45,7 +45,7 @@
 #### 📚 RAG-Based Study Assistant
 - **Tech:** Flask, ChromaDB, Groq LLM, PyMuPDF
 - Retrieval-augmented Q&A assistant built from scratch over PDF course material.
-- [View Repository](https://github.com/ahsan-mohamed)
+- [View Repository](https://github.com/ahsan-mohamed/ai-study-assistant-rag)
 
 #### 🎗️ Breast Cancer Prediction App
 - **Tech:** Python, Scikit-Learn, Streamlit
@@ -89,8 +89,8 @@
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-mohamed-17515a2a5/)
+[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmohamed2356@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsan-mohamed)
 
 ---
