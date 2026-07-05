@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/145c0cf9-d0f9-4455-a519-3b6b5ae60d4c" style="width:100%; max-width:1200px;" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Mohamed;Final-Year+CSE+(AI%2FML)+%40+Loyola+ITS;Building+Explainable+AI+%26+Fraud+Detection+Systems;Optimizing+Code+for+Efficiency;Python+%7C+Java+%7C+SQL+%7C+Applied+ML&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=20" />
