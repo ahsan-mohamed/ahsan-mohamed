@@ -12,23 +12,30 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-![](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header)
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header"/>
 
-![](https://skillicons.dev/icons?i=python,java,js,html,css,react,flask,git,github,vscode&perline=6)
+<!-- Main Stack Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,git,github,vscode,figma&perline=6" />
+</p>
 
-![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-8A2BE2?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-8A2BE2?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq_LLaMA-8A2BE2?style=for-the-badge)
+<!-- Data Science (custom badges for missing icons) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
-![](https://readme-typing-svg.herokuapp.com/?lines=Fraud+Detection+%26+Explainable+AI;RAG+Pipelines+%2B+Role-Based+Access;Full-Stack+ML+Deployment&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=20)
+<!-- Optional subtle animation line -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Large+Scale+Machine+Learning;Statistical+Inference+%7C+A/B+Testing;Data+Pipelines+%26+ETL+Design;Applied+Predictive+Modeling;Full-Stack+Analytical+Systems&center=true&width=600&height=45&color=8A2BE2&vCenter=true&speed=35">
+</p>
 
 ---
-
 ### 🚀 Featured Projects
 
 #### 🛡️ FraudGuard AI
