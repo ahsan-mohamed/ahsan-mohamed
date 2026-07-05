@@ -70,11 +70,11 @@
 ---
 
 ### 📈 GitHub Stats
-
+<p align="center">
 ![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsan-mohamed&show_icons=true&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&hide_border=true&count_private=true)
 
 ![Ahsan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsan-mohamed&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true)
-
+</p>
 ---
 
 ### 📊 Contribution Graph
