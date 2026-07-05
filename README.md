@@ -1,4 +1,11 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Mohamed;Final-Year+CSE+(AI%2FML)+%40+Loyola+ITS;Building+Explainable+AI+%26+Fraud+Detection+Systems;Optimizing+Code+for+Efficiency;Python+%7C+Java+%7C+SQL+%7C+Applied+ML&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=20" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Mohamed;Final-Year+CSE+(AI%2FML)+%40+Loyola+ITS;Building+Explainable+AI+%26+Fraud+Detection+Systems;Optimizing+Code+for+Efficiency;Python+%7C+Java+%7C+SQL+%7C+Applied+ML&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=20" />
+</p>
+
+
+<h3 align="center">🚀 Artficial Intelligence & Machine Learning Engineer</h3>
+
 
 ---
 
