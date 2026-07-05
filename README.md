@@ -2,14 +2,11 @@
   <img src="profile-banner.png" style="width:100%; max-width:1200px;" />
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Mohamed;Final-Year+CSE+(AI%2FML)+%40+Loyola+ITS;Building+Explainable+AI+%26+Fraud+Detection+Systems;Optimizing+Code+for+Efficiency;Python+%7C+Java+%7C+SQL+%7C+Applied+ML&center=true&width=600&height=45&color=#00FFFF&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Mohamed;Final-Year+CSE+(AI%2FML)+%40+Loyola+ITS;Building+Explainable+AI+%26+Fraud+Detection+Systems;Optimizing+Code+for+Efficiency;Python+%7C+Java+%7C+SQL+%7C+Applied+ML&center=true&width=600&height=45&color=00FFFF&vCenter=true&size=20" />
 </p>
 
-
-<h3 align="center">🚀 Artficial Intelligence & Machine Learning Engineer</h3>
-
+<h3 align="center">🚀 Artificial Intelligence & Machine Learning Engineer</h3>
 
 ---
 
@@ -26,7 +23,7 @@
 ## 🛠️ Tech Stack
 
 <!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#00FFFF&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=header"/>
 
 <!-- Main Stack Icons -->
 <p align="center">
@@ -35,15 +32,15 @@
 
 <!-- Data Science (custom badges for missing icons) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-8A2BE2?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-8A2BE2?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-8A2BE2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-00B7C2?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-00B7C2?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-00B7C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-00B7C2?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 <!-- Optional subtle animation line -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Large+Scale+Machine+Learning;Statistical+Inference+%7C+A/B+Testing;Data+Pipelines+%26+ETL+Design;Applied+Predictive+Modeling;Full-Stack+Analytical+Systems&center=true&width=600&height=45&color=8A2BE2&vCenter=true&speed=35">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Large+Scale+Machine+Learning;Statistical+Inference+%7C+A/B+Testing;Data+Pipelines+%26+ETL+Design;Applied+Predictive+Modeling;Full-Stack+Analytical+Systems&center=true&width=600&height=45&color=00FFFF&vCenter=true&speed=35">
 </p>
 
 ---
@@ -58,7 +55,7 @@
 #### 🔐 Enterprise RAG System
 - **Tech:** LangChain, ChromaDB, Flask, JWT/bcrypt, React
 - Role-based access control RAG pipeline for enterprise document search, with a TF-IDF + LSA embedding fallback for compatibility.
-- [View Repository](https://github.com/ahsan-mohamed)
+- *Repo coming soon — currently finalizing before push*
 
 #### 📚 RAG-Based Study Assistant
 - **Tech:** Flask, ChromaDB, Groq LLM, PyMuPDF
@@ -74,15 +71,15 @@
 
 ### 📈 GitHub Stats
 
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsan-mohamed&show_icons=true&bg_color=0d1117&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&hide_border=true&count_private=true)
+![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahsan-mohamed&show_icons=true&bg_color=0d1117&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&hide_border=true&count_private=true)
 
-![Ahsan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsan-mohamed&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true)
+![Ahsan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahsan-mohamed&background=0d1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&hide_border=true)
 
 ---
 
 ### 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ahsan-mohamed&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=ffffff&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ahsan-mohamed&bg_color=0d1117&color=00FFFF&line=00FFFF&point=ffffff&area=true&hide_border=true)
 
 ---
 
@@ -107,13 +104,13 @@
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-mohamed-17515a2a5/)
-[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmohamed2356@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsan-mohamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00B7C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-mohamed-17515a2a5/)
+[![Email](https://img.shields.io/badge/Email-00B7C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmohamed2356@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00B7C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsan-mohamed)
 
 ---
 
 🚀 **Open to MNC Internships & AI/ML Collaborations** ✨
 `Follow @ahsan-mohamed` for more builds.
 
-![](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=80&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=80&section=footer)
