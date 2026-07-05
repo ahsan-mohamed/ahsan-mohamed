@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Mohamed;Final-Year+CSE+(AI%2FML)+%40+Loyola+ITS;Building+Explainable+AI+%26+Fraud+Detection+Systems;Optimizing+Code+for+Efficiency;Python+%7C+Java+%7C+SQL+%7C+Applied+ML&center=true&width=600&height=45&color=8A2BE2&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B%2C+I'm+Ahsan+Mohamed;Final-Year+CSE+(AI%2FML)+%40+Loyola+ITS;Building+Explainable+AI+%26+Fraud+Detection+Systems;Optimizing+Code+for+Efficiency;Python+%7C+Java+%7C+SQL+%7C+Applied+ML&center=true&width=600&height=45&color=#00FFFF&vCenter=true&size=20" />
 </p>
 
 
@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=100&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#00FFFF&height=100&section=header"/>
 
 <!-- Main Stack Icons -->
 <p align="center">
