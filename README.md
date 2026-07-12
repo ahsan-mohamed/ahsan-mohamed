@@ -46,6 +46,14 @@
 ---
 ### 🚀 Featured Projects
 
+#### 🏦 FedXplain — Federated & Explainable Fraud Detection
+- **Tech:** Python, FastAPI, XGBoost, SHAP, Federated Learning (FedAvg), Groq LLaMA 3.3 70B, React 19, TypeScript, Tailwind CSS
+- Privacy-preserving fraud detection platform: simulated banks train a shared model via Federated Learning without ever sharing raw data, with SHAP + LLM-generated explanations (plain-English and Basel III-style audit narratives) for every prediction.
+- JWT auth with role-based access control (Admin/Analyst/Auditor), real-time WebSocket alerts, model versioning, full audit logging.
+- Grounded in and extending the open research gap identified in an IEEE Access systematic review on AI-driven fraud detection.
+- Frontend on **Vercel**, backend on **Render**.
+- [Live Demo](https://fed-xplain-lsu7.vercel.app) · [View Repository](https://github.com/ahsan-mohamed/FedXplain)
+
 #### 🛡️ FraudGuard AI
 - **Tech:** Python, XGBoost, Groq LLaMA 3.3 70B, Flask, React
 - End-to-end fraud detection platform combining ML predictions with LLM-generated, human-readable explanations for flagged transactions.
